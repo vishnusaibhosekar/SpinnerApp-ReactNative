@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "spinner-app",
+    "slug": "spinner-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
